@@ -1,6 +1,6 @@
-# Fix AppleIntelE1000e macOS Catalina
+# Fix Network AppleIntelE1000e macOS Catalina
 
-### This is a Mac OS X Package
+### This is a Mac OS X Package (For Hackintosh PC / Laptop)
 
 ### Credit: Developer [hnak ➠ Source:](https://sourceforge.net/projects/osx86drivers/)
 
