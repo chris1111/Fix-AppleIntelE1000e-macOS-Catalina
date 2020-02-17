@@ -1,6 +1,7 @@
 # Fix Network AppleIntelE1000e macOS Catalina
 
 ### This is a Mac OS X Package (For Hackintosh PC / Laptop)
+- NOTE: Usage ☞ SIP security (System Integrity Protection) and Gatekeeper must be Disable!
 
 ### Credit: Developer [hnak ➠ Source:](https://sourceforge.net/projects/osx86drivers/)
 
