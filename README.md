@@ -5,7 +5,7 @@
 
 ### Credit: Developer [hnak ➠ Source:](https://sourceforge.net/projects/osx86drivers/)
 
-![Modular Image Creation](https://user-images.githubusercontent.com/6248794/74613582-b7363900-50dd-11ea-9105-72694a5faea9.png)
+![Capture d’écran, le 2020-03-22 à 08 17 39](https://user-images.githubusercontent.com/6248794/77249174-aa918d00-6c15-11ea-8686-2eece63917c9.png)
 
 ### Test on macOS Catalina 10.15.3 (19D76)
 ![Capture d’écran, le 2020-02-16 à 18 58 33](https://user-images.githubusercontent.com/6248794/74615517-9971cf80-50ef-11ea-8c8b-97dd6efd9a5b.png)
